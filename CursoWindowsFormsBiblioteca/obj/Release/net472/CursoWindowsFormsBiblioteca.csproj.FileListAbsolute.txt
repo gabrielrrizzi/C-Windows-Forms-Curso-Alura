@@ -1,0 +1,9 @@
+E:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsFormsBiblioteca\bin\Release\net472\CursoWindowsFormsBiblioteca.dll
+E:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsFormsBiblioteca\bin\Release\net472\CursoWindowsFormsBiblioteca.pdb
+E:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsFormsBiblioteca\obj\Release\net472\CursoWindowsFormsBiblioteca.csproj.AssemblyReference.cache
+E:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsFormsBiblioteca\obj\Release\net472\CursoWindowsFormsBiblioteca.GeneratedMSBuildEditorConfig.editorconfig
+E:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsFormsBiblioteca\obj\Release\net472\CursoWindowsFormsBiblioteca.AssemblyInfoInputs.cache
+E:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsFormsBiblioteca\obj\Release\net472\CursoWindowsFormsBiblioteca.AssemblyInfo.cs
+E:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsFormsBiblioteca\obj\Release\net472\CursoWindowsFormsBiblioteca.csproj.CoreCompileInputs.cache
+E:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsFormsBiblioteca\obj\Release\net472\CursoWindowsFormsBiblioteca.dll
+E:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsFormsBiblioteca\obj\Release\net472\CursoWindowsFormsBiblioteca.pdb

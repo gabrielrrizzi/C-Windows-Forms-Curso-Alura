@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9ff6c454-fb7a-4107-8374-bbd7acd1d08a": {
+      "ProjectGuid": "9ff6c454-fb7a-4107-8374-bbd7acd1d08a",
+      "DisplayName": "CursoWindowsFormsBiblioteca",
+      "ColorIndex": 0
+    },
+    "ff8ae5a0-37db-4078-bbba-749c7bb09512": {
+      "ProjectGuid": "ff8ae5a0-37db-4078-bbba-749c7bb09512",
+      "DisplayName": "CursoWindowsForms",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

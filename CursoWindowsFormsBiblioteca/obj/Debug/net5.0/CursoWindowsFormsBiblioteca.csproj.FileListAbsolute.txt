@@ -1,0 +1,12 @@
+E:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsFormsBiblioteca\bin\Debug\net5.0\CursoWindowsFormsBiblioteca.deps.json
+E:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsFormsBiblioteca\bin\Debug\net5.0\CursoWindowsFormsBiblioteca.dll
+E:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsFormsBiblioteca\bin\Debug\net5.0\ref\CursoWindowsFormsBiblioteca.dll
+E:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsFormsBiblioteca\bin\Debug\net5.0\CursoWindowsFormsBiblioteca.pdb
+E:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsFormsBiblioteca\obj\Debug\net5.0\CursoWindowsFormsBiblioteca.csproj.AssemblyReference.cache
+E:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsFormsBiblioteca\obj\Debug\net5.0\CursoWindowsFormsBiblioteca.GeneratedMSBuildEditorConfig.editorconfig
+E:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsFormsBiblioteca\obj\Debug\net5.0\CursoWindowsFormsBiblioteca.AssemblyInfoInputs.cache
+E:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsFormsBiblioteca\obj\Debug\net5.0\CursoWindowsFormsBiblioteca.AssemblyInfo.cs
+E:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsFormsBiblioteca\obj\Debug\net5.0\CursoWindowsFormsBiblioteca.csproj.CoreCompileInputs.cache
+E:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsFormsBiblioteca\obj\Debug\net5.0\CursoWindowsFormsBiblioteca.dll
+E:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsFormsBiblioteca\obj\Debug\net5.0\ref\CursoWindowsFormsBiblioteca.dll
+E:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsFormsBiblioteca\obj\Debug\net5.0\CursoWindowsFormsBiblioteca.pdb
