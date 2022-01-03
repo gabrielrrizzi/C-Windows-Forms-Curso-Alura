@@ -68,7 +68,7 @@
             // 
             // Pic_Imagem
             // 
-            this.Pic_Imagem.Image = global::CursoWindowsForms.Properties.Resources.Question_Photo;
+            this.Pic_Imagem.Image = global::CursoWindowsForms.Properties.Resources.Question;
             this.Pic_Imagem.Location = new System.Drawing.Point(22, 48);
             this.Pic_Imagem.Name = "Pic_Imagem";
             this.Pic_Imagem.Size = new System.Drawing.Size(100, 64);

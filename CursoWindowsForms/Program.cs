@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using CursoWindowsForms.Views_Curse_1;
 
 namespace CursoWindowsForms
 {
