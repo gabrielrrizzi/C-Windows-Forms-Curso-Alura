@@ -42,6 +42,7 @@
     <NoWin32Manifest>true</NoWin32Manifest>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic" />
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -55,6 +56,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
     <Compile Include="Views\User Controls\Frm_CadastroUsuario_UC.cs">
       <SubType>UserControl</SubType>
     </Compile>
@@ -248,14 +254,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
-      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
       <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
-    <Compile Include="Properties\Resources.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DependentUpon>Resources.resx</DependentUpon>
-      <DesignTime>True</DesignTime>
-    </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -270,17 +271,19 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\icons8_question_mark_56px.png" />
+    <None Include="Resource\Icon\icons8_question_mark_56px.png" />
     <Content Include="Resource\Cadastros.png" />
     <Content Include="Resource\DeleteAll.png" />
     <Content Include="Resource\DeleteLeft.png" />
     <Content Include="Resource\DeleteRight.png" />
     <Content Include="Resource\DeleteTab.png" />
+    <Content Include="Resource\ExcluirBarra.png" />
     <Content Include="Resource\key.png" />
+    <Content Include="Resource\LimparBarra.png" />
     <Content Include="Resource\money.png" />
     <Content Include="Resource\user.png" />
-    <None Include="Resources\icons8_question_mark.ico" />
-    <None Include="Resources\icons8_question_mark_26px.png" />
+    <None Include="Resource\Icon\icons8_question_mark.ico" />
+    <None Include="Resource\Icon\icons8_question_mark_26px.png" />
     <Content Include="Resource\Frm_DemonstracaoKey.ico" />
     <Content Include="Resource\Frm_DemonstracaoKey.png" />
     <Content Include="Resource\Frm_HelloWorld.ico" />

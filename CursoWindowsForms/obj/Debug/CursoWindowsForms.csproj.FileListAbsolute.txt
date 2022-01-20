@@ -64,3 +64,4 @@ E:\WindowsForms\Curso\CursoWindowsForms(Parte3)\CursoWindowsForms\obj\Debug\Curs
 E:\WindowsForms\Curso\CursoWindowsForms(Parte3)\CursoWindowsForms\obj\Debug\CursoWindowsForms.pdb
 E:\WindowsForms\Curso\CursoWindowsForms(Parte3)\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_Menu_Flutuante.resources
 E:\WindowsForms\Curso\CursoWindowsForms(Parte3)\CursoWindowsForms\obj\Debug\CursoWindowsForms.Formulários_Curso2.User_Controls.Frm_CadastroUsuario_UC.resources
+E:\WindowsForms\Curso\CursoWindowsForms(Parte3)\CursoWindowsForms\bin\Debug\Newtonsoft.Json.dll

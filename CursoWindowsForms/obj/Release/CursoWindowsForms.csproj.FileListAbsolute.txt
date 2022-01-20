@@ -53,7 +53,6 @@ E:\WindowsForms\Curso\CursoWindowsForms(Parte3)\CursoWindowsForms\obj\Release\Cu
 E:\WindowsForms\Curso\CursoWindowsForms(Parte3)\CursoWindowsForms\obj\Release\CursoWindowsForms.Views_Curse_1.Frm_Login.resources
 E:\WindowsForms\Curso\CursoWindowsForms(Parte3)\CursoWindowsForms\obj\Release\CursoWindowsForms.Frm_Mascara.resources
 E:\WindowsForms\Curso\CursoWindowsForms(Parte3)\CursoWindowsForms\obj\Release\CursoWindowsForms.Frm_Principal.resources
-E:\WindowsForms\Curso\CursoWindowsForms(Parte3)\CursoWindowsForms\obj\Release\CursoWindowsForms.Views_Curse_1.Frm_MouseEventos.resources
 E:\WindowsForms\Curso\CursoWindowsForms(Parte3)\CursoWindowsForms\obj\Release\CursoWindowsForms.Frm_ValidaCPF.resources
 E:\WindowsForms\Curso\CursoWindowsForms(Parte3)\CursoWindowsForms\obj\Release\CursoWindowsForms.Frm_ValidaCPF2.resources
 E:\WindowsForms\Curso\CursoWindowsForms(Parte3)\CursoWindowsForms\obj\Release\CursoWindowsForms.Frm_ValidaSenha.resources
@@ -63,3 +62,6 @@ E:\WindowsForms\Curso\CursoWindowsForms(Parte3)\CursoWindowsForms\obj\Release\Cu
 E:\WindowsForms\Curso\CursoWindowsForms(Parte3)\CursoWindowsForms\obj\Release\CursoWindowsForms.csproj.CopyComplete
 E:\WindowsForms\Curso\CursoWindowsForms(Parte3)\CursoWindowsForms\obj\Release\CursoWindowsForms.exe
 E:\WindowsForms\Curso\CursoWindowsForms(Parte3)\CursoWindowsForms\obj\Release\CursoWindowsForms.pdb
+E:\WindowsForms\Curso\CursoWindowsForms(Parte3)\CursoWindowsForms\bin\Release\Newtonsoft.Json.dll
+E:\WindowsForms\Curso\CursoWindowsForms(Parte3)\CursoWindowsForms\obj\Release\CursoWindowsForms.Formulários_Curso2.User_Controls.Frm_CadastroUsuario_UC.resources
+E:\WindowsForms\Curso\CursoWindowsForms(Parte3)\CursoWindowsForms\obj\Release\CursoWindowsForms.Frm_Menu_Flutuante.resources
