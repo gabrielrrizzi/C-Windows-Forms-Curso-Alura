@@ -65,6 +65,7 @@ E:\WindowsForms\Curso\CursoWindowsForms(Parte3)\CursoWindowsForms\obj\Release\Cu
 E:\WindowsForms\Curso\CursoWindowsForms(Parte3)\CursoWindowsForms\bin\Release\Newtonsoft.Json.dll
 E:\WindowsForms\Curso\CursoWindowsForms(Parte3)\CursoWindowsForms\obj\Release\CursoWindowsForms.Formulários_Curso2.User_Controls.Frm_CadastroUsuario_UC.resources
 E:\WindowsForms\Curso\CursoWindowsForms(Parte3)\CursoWindowsForms\obj\Release\CursoWindowsForms.Frm_Menu_Flutuante.resources
+<<<<<<< HEAD
 E:\WindowsForms\Curso\CursoWindowsForms(Parte5)\CursoWindowsForms\bin\Release\CursoWindowsForms.exe.config
 E:\WindowsForms\Curso\CursoWindowsForms(Parte5)\CursoWindowsForms\bin\Release\CursoWindowsForms.exe
 E:\WindowsForms\Curso\CursoWindowsForms(Parte5)\CursoWindowsForms\bin\Release\CursoWindowsForms.pdb
@@ -100,3 +101,5 @@ E:\WindowsForms\Curso\CursoWindowsForms(Parte5)\CursoWindowsForms\obj\Release\Cu
 E:\WindowsForms\Curso\CursoWindowsForms(Parte5)\CursoWindowsForms\obj\Release\CursoWindowsForms.csproj.CopyComplete
 E:\WindowsForms\Curso\CursoWindowsForms(Parte5)\CursoWindowsForms\obj\Release\CursoWindowsForms.exe
 E:\WindowsForms\Curso\CursoWindowsForms(Parte5)\CursoWindowsForms\obj\Release\CursoWindowsForms.pdb
+=======
+>>>>>>> 5c0450bf6145a409b9f3976a6eb70ab48a488636

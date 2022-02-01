@@ -4,8 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.ComponentModel.DataAnnotations;
+<<<<<<< HEAD
 using Newtonsoft.Json;
 using CursoWindowsFormsBiblioteca.Databases;
+=======
+>>>>>>> 5c0450bf6145a409b9f3976a6eb70ab48a488636
 
 namespace CursoWindowsFormsBiblioteca.Cliente
 {
@@ -100,6 +103,7 @@ namespace CursoWindowsFormsBiblioteca.Cliente
                     throw new Exception("CPF inválido");
                 }
             }
+<<<<<<< HEAD
 
             #region "CRUD DO FICHARIO"
 
@@ -201,12 +205,16 @@ namespace CursoWindowsFormsBiblioteca.Cliente
 
             #endregion
 
+=======
+           
+>>>>>>> 5c0450bf6145a409b9f3976a6eb70ab48a488636
         }
 
         public class List
         {
             public List<Unit> ListUnit { get; set; }
         }
+<<<<<<< HEAD
         public static Unit DesSerializedClassUnit(string vJson)
         {
             return JsonConvert.DeserializeObject<Unit>(vJson);
@@ -218,6 +226,10 @@ namespace CursoWindowsFormsBiblioteca.Cliente
         }
 
         
+=======
+
+
+>>>>>>> 5c0450bf6145a409b9f3976a6eb70ab48a488636
 
     }
 }

@@ -71,7 +71,10 @@
             this.saveToolStripButton = new System.Windows.Forms.ToolStripButton();
             this.ApagatoolStripButton = new System.Windows.Forms.ToolStripButton();
             this.LimpartoolStripButton = new System.Windows.Forms.ToolStripButton();
+<<<<<<< HEAD
             this.btn_Busca = new System.Windows.Forms.Button();
+=======
+>>>>>>> 5c0450bf6145a409b9f3976a6eb70ab48a488636
             this.Grp_Codigo.SuspendLayout();
             this.Grp_DadosPessoais.SuspendLayout();
             this.Grp_TemPai.SuspendLayout();
@@ -504,6 +507,7 @@
             this.LimpartoolStripButton.Size = new System.Drawing.Size(23, 22);
             this.LimpartoolStripButton.Text = "toolStripButton2";
             this.LimpartoolStripButton.Click += new System.EventHandler(this.LimpartoolStripButton_Click);
+<<<<<<< HEAD
             // 
             // btn_Busca
             // 
@@ -514,6 +518,8 @@
             this.btn_Busca.Text = "button1";
             this.btn_Busca.UseVisualStyleBackColor = true;
             this.btn_Busca.Click += new System.EventHandler(this.btn_Busca_Click);
+=======
+>>>>>>> 5c0450bf6145a409b9f3976a6eb70ab48a488636
             // 
             // Frm_CadastroUsuario_UC
             // 
@@ -584,6 +590,9 @@
         private System.Windows.Forms.ToolStripButton saveToolStripButton;
         private System.Windows.Forms.ToolStripButton ApagatoolStripButton;
         private System.Windows.Forms.ToolStripButton LimpartoolStripButton;
+<<<<<<< HEAD
         private System.Windows.Forms.Button btn_Busca;
+=======
+>>>>>>> 5c0450bf6145a409b9f3976a6eb70ab48a488636
     }
 }

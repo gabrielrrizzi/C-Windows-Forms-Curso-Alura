@@ -65,6 +65,7 @@ E:\WindowsForms\Curso\CursoWindowsForms(Parte3)\CursoWindowsForms\obj\Debug\Curs
 E:\WindowsForms\Curso\CursoWindowsForms(Parte3)\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_Menu_Flutuante.resources
 E:\WindowsForms\Curso\CursoWindowsForms(Parte3)\CursoWindowsForms\obj\Debug\CursoWindowsForms.Formulários_Curso2.User_Controls.Frm_CadastroUsuario_UC.resources
 E:\WindowsForms\Curso\CursoWindowsForms(Parte3)\CursoWindowsForms\bin\Debug\Newtonsoft.Json.dll
+<<<<<<< HEAD
 E:\WindowsForms\Curso\CursoWindowsForms(Parte5)\CursoWindowsForms\bin\Debug\CursoWindowsForms.exe.config
 E:\WindowsForms\Curso\CursoWindowsForms(Parte5)\CursoWindowsForms\bin\Debug\CursoWindowsForms.exe
 E:\WindowsForms\Curso\CursoWindowsForms(Parte5)\CursoWindowsForms\bin\Debug\CursoWindowsForms.pdb
@@ -102,3 +103,5 @@ E:\WindowsForms\Curso\CursoWindowsForms(Parte5)\CursoWindowsForms\obj\Debug\Curs
 E:\WindowsForms\Curso\CursoWindowsForms(Parte5)\CursoWindowsForms\obj\Debug\CursoWindowsForms.pdb
 E:\WindowsForms\Curso\CursoWindowsForms(Parte5)\CursoWindowsForms\obj\Debug\CursoWindowsForms.Views.Views_Curse_1.LoadingForm.resources
 E:\WindowsForms\Curso\CursoWindowsForms(Parte5)\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_Busca.resources
+=======
+>>>>>>> 5c0450bf6145a409b9f3976a6eb70ab48a488636

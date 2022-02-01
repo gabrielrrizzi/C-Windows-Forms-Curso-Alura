@@ -17,6 +17,7 @@ E:\WindowsForms\Curso\CursoWindowsForms(Parte3)\CursoWindowsFormsBiblioteca\obj\
 E:\WindowsForms\Curso\CursoWindowsForms(Parte3)\CursoWindowsFormsBiblioteca\obj\Debug\net472\CursoWindowsFormsBiblioteca.pdb
 E:\WindowsForms\Curso\CursoWindowsForms(Parte3)\CursoWindowsFormsBiblioteca\bin\Debug\net472\Newtonsoft.Json.dll
 E:\WindowsForms\Curso\CursoWindowsForms(Parte3)\CursoWindowsFormsBiblioteca\obj\Debug\net472\CursoWindowsFormsBiblioteca.csproj.CopyComplete
+<<<<<<< HEAD
 E:\WindowsForms\Curso\CursoWindowsForms(Parte5)\CursoWindowsFormsBiblioteca\bin\Debug\net472\CursoWindowsFormsBiblioteca.dll
 E:\WindowsForms\Curso\CursoWindowsForms(Parte5)\CursoWindowsFormsBiblioteca\bin\Debug\net472\CursoWindowsFormsBiblioteca.pdb
 E:\WindowsForms\Curso\CursoWindowsForms(Parte5)\CursoWindowsFormsBiblioteca\bin\Debug\net472\Newtonsoft.Json.dll
@@ -28,3 +29,5 @@ E:\WindowsForms\Curso\CursoWindowsForms(Parte5)\CursoWindowsFormsBiblioteca\obj\
 E:\WindowsForms\Curso\CursoWindowsForms(Parte5)\CursoWindowsFormsBiblioteca\obj\Debug\net472\CursoWindowsFormsBiblioteca.csproj.CopyComplete
 E:\WindowsForms\Curso\CursoWindowsForms(Parte5)\CursoWindowsFormsBiblioteca\obj\Debug\net472\CursoWindowsFormsBiblioteca.dll
 E:\WindowsForms\Curso\CursoWindowsForms(Parte5)\CursoWindowsFormsBiblioteca\obj\Debug\net472\CursoWindowsFormsBiblioteca.pdb
+=======
+>>>>>>> 5c0450bf6145a409b9f3976a6eb70ab48a488636

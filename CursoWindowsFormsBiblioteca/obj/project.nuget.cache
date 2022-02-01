@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "a3pA0wRqIqkLhWpOUXGPep+GIDm9x0iqTfNYzqa7g/9aCvtJ/j0MdBZRz1UDnzQoYUihYDSpSA5XxHTha+jE7g==",
   "success": true,
   "projectFilePath": "E:\\WindowsForms\\Curso\\CursoWindowsForms(Parte5)\\CursoWindowsFormsBiblioteca\\CursoWindowsFormsBiblioteca.csproj",
+=======
+  "dgSpecHash": "VQwFgSgkDtSN876LRmKhi8gYqhzJ7zkqIe5puUkqhp+c9qZ5v0or6eIJB/noZIVTR+Qb9NOP4aSJGhAglbSZ9A==",
+  "success": true,
+  "projectFilePath": "E:\\WindowsForms\\Curso\\CursoWindowsForms(Parte3)\\CursoWindowsFormsBiblioteca\\CursoWindowsFormsBiblioteca.csproj",
+>>>>>>> 5c0450bf6145a409b9f3976a6eb70ab48a488636
   "expectedPackageFiles": [
     "C:\\Users\\Pichau\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
   ],
