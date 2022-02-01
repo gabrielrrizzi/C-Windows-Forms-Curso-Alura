@@ -7,3 +7,13 @@ E:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsFormsBiblioteca\obj\Release\
 E:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsFormsBiblioteca\obj\Release\net472\CursoWindowsFormsBiblioteca.csproj.CoreCompileInputs.cache
 E:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsFormsBiblioteca\obj\Release\net472\CursoWindowsFormsBiblioteca.dll
 E:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsFormsBiblioteca\obj\Release\net472\CursoWindowsFormsBiblioteca.pdb
+E:\WindowsForms\Curso\CursoWindowsForms(Parte3)\CursoWindowsFormsBiblioteca\bin\Release\net472\CursoWindowsFormsBiblioteca.dll
+E:\WindowsForms\Curso\CursoWindowsForms(Parte3)\CursoWindowsFormsBiblioteca\bin\Release\net472\CursoWindowsFormsBiblioteca.pdb
+E:\WindowsForms\Curso\CursoWindowsForms(Parte3)\CursoWindowsFormsBiblioteca\bin\Release\net472\Newtonsoft.Json.dll
+E:\WindowsForms\Curso\CursoWindowsForms(Parte3)\CursoWindowsFormsBiblioteca\obj\Release\net472\CursoWindowsFormsBiblioteca.GeneratedMSBuildEditorConfig.editorconfig
+E:\WindowsForms\Curso\CursoWindowsForms(Parte3)\CursoWindowsFormsBiblioteca\obj\Release\net472\CursoWindowsFormsBiblioteca.AssemblyInfoInputs.cache
+E:\WindowsForms\Curso\CursoWindowsForms(Parte3)\CursoWindowsFormsBiblioteca\obj\Release\net472\CursoWindowsFormsBiblioteca.AssemblyInfo.cs
+E:\WindowsForms\Curso\CursoWindowsForms(Parte3)\CursoWindowsFormsBiblioteca\obj\Release\net472\CursoWindowsFormsBiblioteca.csproj.CoreCompileInputs.cache
+E:\WindowsForms\Curso\CursoWindowsForms(Parte3)\CursoWindowsFormsBiblioteca\obj\Release\net472\CursoWindowsFormsBiblioteca.csproj.CopyComplete
+E:\WindowsForms\Curso\CursoWindowsForms(Parte3)\CursoWindowsFormsBiblioteca\obj\Release\net472\CursoWindowsFormsBiblioteca.dll
+E:\WindowsForms\Curso\CursoWindowsForms(Parte3)\CursoWindowsFormsBiblioteca\obj\Release\net472\CursoWindowsFormsBiblioteca.pdb

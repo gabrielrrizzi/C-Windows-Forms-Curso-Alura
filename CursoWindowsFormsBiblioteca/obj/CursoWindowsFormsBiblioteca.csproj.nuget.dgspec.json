@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\WindowsForms\\Curso\\CursoWindowsForms(Parte3)\\CursoWindowsFormsBiblioteca\\CursoWindowsFormsBiblioteca.csproj": {}
+    "E:\\WindowsForms\\Curso\\CursoWindowsForms(Parte5)\\CursoWindowsFormsBiblioteca\\CursoWindowsFormsBiblioteca.csproj": {}
   },
   "projects": {
-    "E:\\WindowsForms\\Curso\\CursoWindowsForms(Parte3)\\CursoWindowsFormsBiblioteca\\CursoWindowsFormsBiblioteca.csproj": {
+    "E:\\WindowsForms\\Curso\\CursoWindowsForms(Parte5)\\CursoWindowsFormsBiblioteca\\CursoWindowsFormsBiblioteca.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\WindowsForms\\Curso\\CursoWindowsForms(Parte3)\\CursoWindowsFormsBiblioteca\\CursoWindowsFormsBiblioteca.csproj",
+        "projectUniqueName": "E:\\WindowsForms\\Curso\\CursoWindowsForms(Parte5)\\CursoWindowsFormsBiblioteca\\CursoWindowsFormsBiblioteca.csproj",
         "projectName": "CursoWindowsFormsBiblioteca",
-        "projectPath": "E:\\WindowsForms\\Curso\\CursoWindowsForms(Parte3)\\CursoWindowsFormsBiblioteca\\CursoWindowsFormsBiblioteca.csproj",
+        "projectPath": "E:\\WindowsForms\\Curso\\CursoWindowsForms(Parte5)\\CursoWindowsFormsBiblioteca\\CursoWindowsFormsBiblioteca.csproj",
         "packagesPath": "C:\\Users\\Pichau\\.nuget\\packages\\",
-        "outputPath": "E:\\WindowsForms\\Curso\\CursoWindowsForms(Parte3)\\CursoWindowsFormsBiblioteca\\obj\\",
+        "outputPath": "E:\\WindowsForms\\Curso\\CursoWindowsForms(Parte5)\\CursoWindowsFormsBiblioteca\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -44,6 +44,12 @@
       "frameworks": {
         "net472": {
           "targetAlias": "net472",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
         }
       }

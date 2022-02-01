@@ -38,6 +38,7 @@
             this.Name = "Frm_Menu_Flutuante";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Frm_Menu_Flutuante";
+            this.Load += new System.EventHandler(this.Frm_Menu_Flutuante_Load);
             this.MouseDown += new System.Windows.Forms.MouseEventHandler(this.Frm_Menu_Flutuante_MouseDown);
             this.ResumeLayout(false);
 

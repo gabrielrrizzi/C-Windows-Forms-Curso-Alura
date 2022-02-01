@@ -15,6 +15,7 @@ namespace CursoWindowsForms
         public Frm_Menu_Flutuante()
         {
             InitializeComponent();
+            
         }
 
         private void Frm_Menu_Flutuante_MouseDown(object sender, MouseEventArgs e)
@@ -87,5 +88,9 @@ namespace CursoWindowsForms
             return vToolTip;
         }
 
+        private void Frm_Menu_Flutuante_Load(object sender, EventArgs e)
+        {
+            
+        }
     }
 }

@@ -4,6 +4,7 @@ using System.Windows.Forms;
 using CursoWindowsForms.Views_Curse_1;
 using System.Drawing;
 using CursoWindowsForms.Formulários_Curso2.User_Controls;
+using CursoWindowsForms.Views.Views_Curse_1;
 
 namespace CursoWindowsForms
 {
@@ -18,6 +19,7 @@ namespace CursoWindowsForms
             apagarAbaToolStripMenuItem.Enabled = false;
             abrirImagemToolStripMenuItem.Enabled = false;
             cadastrosToolStripMenuItem.Enabled = false;
+            
         }
         private void demonstraçãoKeyToolStripMenuItem_Click(object sender, EventArgs e)
         {
@@ -230,6 +232,13 @@ namespace CursoWindowsForms
                 TB.ImageIndex = 7;
                 TB.Controls.Add(frm_CadastroUsuario_UC);
                 Tbc_Aplicacoes.TabPages.Add(TB);
+
+               /* this.Enabled = false;
+                int i;
+                LoadingForm loading = new LoadingForm();
+                loading.ShowDialog();
+                this.Enabled = true;*/
+
             }
             else
             {
